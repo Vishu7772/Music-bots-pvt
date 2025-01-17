@@ -39,10 +39,10 @@ module.exports = {
   nodes: [
     {
         
-        host: "lava-v3.ajieblogs.eu.org",
-        port: 443,
-        password: "https://dsc.gg/ajidevserver",  
-        secure: true
+        host: "lavalink.jirayu.net",
+        port: 13592,
+        password: "youshallnotpass",  
+        secure: false
     },
  ]
 }
